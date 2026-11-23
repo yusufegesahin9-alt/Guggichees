@@ -1,0 +1,8 @@
+{
+  "name": "guggichees",
+  "version": "1.0.0",
+  "description": "guggichees satranç: online oda, otomatik eşleşme ve puan tablosu",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
